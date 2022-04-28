@@ -1,2 +1,3 @@
 # StopWatch
-A simple stop watch with pause and play option using iGraphics.
+
+Stop Watch is a desktop based application for counting time, developed in C++ language.
